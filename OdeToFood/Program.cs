@@ -20,6 +20,7 @@ namespace OdeToFood
                 .Build();
 
             host.Run();
+            // added comment
         }
     }
 }
